@@ -1,1 +1,1 @@
-# SQL-Till-join-concept
+This provides the inforamtion regarding the SQL till the join concept
